@@ -1,0 +1,6 @@
+logging:
+    stderr:
+        enabled: false
+    file:
+        enabled: true
+        filename: "/dev/null"
